@@ -3,6 +3,17 @@
 
 This document shows and outline for my work and plans for addressing areas of improvement.  
 
+
+## Improve general coding knowledge  ![](https://geps.dev/progress/75)  
+
+Coming from VBA and then being self-taught in C# made it clear I've been lacking perspective on development as I have narrow experience.
+
+- University course on Python ![](https://geps.dev/progress/100)
+- University course on Android development ![](https://geps.dev/progress/50) 
+
+
+***
+
 ## Communication and understanding of Software ![](https://geps.dev/progress/60)  
 
 Improving my knowledge of standards for documenting and communicating software, such as UML, would improve my communication with others and my own work to solve problems.  
@@ -40,7 +51,7 @@ To get better at writing bigger pieces of maintainable software.
 One important area of improvement for me is to become better at networking. It's fundamental to software development and an area I've noticed many times that I'm lacking a solid base in. I've improved a lot while working, but this is an area where I need to feel comfortable.
 
 - Practice using web APIs ![](https://geps.dev/progress/50)  
-- Study university course "Data communication in networks" ![](https://geps.dev/progress/10)
+- University course "Data communication in networks" ![](https://geps.dev/progress/10)
 - Read initial chapters of "Computer Networking A Top-Down Approach" ![](https://geps.dev/progress/10)
 
 ***
@@ -51,16 +62,6 @@ Docker is a technology I want to be more comfortable with and debugging, modifyi
 
 - Learn debugging docker from tutorial ![](https://geps.dev/progress/100)  
 - Create a docker app ![](https://geps.dev/progress/0)
-
-***
-
-## Improve general coding knowledge  ![](https://geps.dev/progress/75)  
-
-Coming from VBA and then being self-taught in C# made it clear I've been lacking perspective on development as I have narrow experience.
-
-- Attend a university course on Python ![](https://geps.dev/progress/100)
-- Attend a university course on Android development ![](https://geps.dev/progress/50) 
-
 
 ***
 
