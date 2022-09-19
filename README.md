@@ -6,10 +6,11 @@ This document shows and outline for my work and plans for addressing areas of im
 
 ## Improve general coding knowledge  ![](https://geps.dev/progress/75)  
 
-Coming from VBA and then being self-taught in C# made it clear I've been lacking perspective on development as I have narrow experience.
+Coming from VBA and then being self-taught in C# made it clear that sometimes I'm not aware of alternative solutions and possibilies.
 
 - University course on Python ![](https://geps.dev/progress/100)
 - University course on Android development ![](https://geps.dev/progress/50) 
+- Listen to coding podcasts ![](https://geps.dev/progress/75) 
 
 
 ***
