@@ -10,7 +10,7 @@ Coming from VBA and then being self-taught in C# made it clear that sometimes I'
 
 - University course on Python ![](https://geps.dev/progress/100)
 - University course on Android development ![](https://geps.dev/progress/50) 
-- Listen to coding podcasts ![](https://geps.dev/progress/75) 
+- Listen to coding podcasts 
 
 
 ***
@@ -21,7 +21,7 @@ Improving my knowledge of standards for documenting and communicating software, 
 
 - Review UML ![](https://geps.dev/progress/100)  
 - Draw algorithms to practice through university course in robotics ![](https://geps.dev/progress/100) 
-- Study and use UML for coding projects ![](https://geps.dev/progress/30) 
+- Study and use UML for coding projects ![](https://geps.dev/progress/40) 
   
 ***  
   
@@ -51,7 +51,7 @@ To get better at writing bigger pieces of maintainable software.
 
 One important area of improvement for me is to become better at networking. It's fundamental to software development and an area I've noticed many times that I'm lacking a solid base in. I've improved a lot while working, but this is an area where I need to feel comfortable.
 
-- Practice using web APIs ![](https://geps.dev/progress/50)  
+- Practice using web APIs. Google APIs ![](https://geps.dev/progress/50)  
 - University course "Data communication in networks" ![](https://geps.dev/progress/10)
 - Read initial chapters of "Computer Networking A Top-Down Approach" ![](https://geps.dev/progress/10)
 
