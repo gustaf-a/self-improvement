@@ -28,10 +28,10 @@ I really enjoy writing test code and finding bugs in code. But there are many di
 
 To get better at writing bigger pieces of maintainable software.  
 
-- Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/60)
+- Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/70)
 - Study design patterns: [YouTube playlist](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&ab_channel=ChristopherOkhravi) ![](https://geps.dev/progress/50)  
 - Read parts of "Designing Data Intensive Applications" ![](https://geps.dev/progress/10)
-- Practice writing software ![](https://geps.dev/progress/20)  
+- Practice writing software ![](https://geps.dev/progress/25)  
 
 ***
 
@@ -54,9 +54,15 @@ Docker is a technology I want to be more comfortable with and debugging, modifyi
 
 ***
 
+## Improve general coding knowledge  ![](https://geps.dev/progress/75)  
+
+Coming from VBA and then being self-taught in C# made it clear I've been lacking perspective on development as I have narrow experience.
+
+- Attend a university course on Python ![](https://geps.dev/progress/100)
+- Attend a university course on Android development ![](https://geps.dev/progress/50) 
 
 
-
+***
 
 ### Powered by:
 
