@@ -25,7 +25,7 @@ Improving my knowledge of standards for documenting and communicating software, 
   
 ***  
   
-## Testing ![](https://geps.dev/progress/20)  
+## Testing ![](https://geps.dev/progress/30)  
 
 I really enjoy writing test code and finding bugs in code. But there are many different ways of writing and thinking about test code that I've encountered among collegues. I want to be competent to find bugs and feel that I'm producing quality code.  
 
