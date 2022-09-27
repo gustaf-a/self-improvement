@@ -21,7 +21,7 @@ Improving my knowledge of standards for documenting and communicating software, 
 
 - Review UML ![](https://geps.dev/progress/100)  
 - Draw algorithms to practice through university course in robotics ![](https://geps.dev/progress/100) 
-- Study and use UML for coding projects ![](https://geps.dev/progress/40) 
+- Study and use UML for coding projects ![](https://geps.dev/progress/60) 
   
 ***  
   
@@ -30,7 +30,7 @@ Improving my knowledge of standards for documenting and communicating software, 
 I really enjoy writing test code and finding bugs in code. But there are many different ways of writing and thinking about test code that I've encountered among collegues. I want to be competent to find bugs and feel that I'm producing quality code.  
 
 - Listen to podcasts on testing: Coding Blocks ![](https://geps.dev/progress/100) 
-- Write tests for private projects ![](https://geps.dev/progress/40) 
+- Write tests for private projects ![](https://geps.dev/progress/60) 
 - Read: "C and .NET Core Test-Driven Development" ![](https://geps.dev/progress/20)  
 - Read: "The Art of Software Testing" ![](https://geps.dev/progress/20)  
 
@@ -43,7 +43,7 @@ To get better at writing bigger pieces of maintainable software.
 - Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/70)
 - Study design patterns: [YouTube playlist](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&ab_channel=ChristopherOkhravi) ![](https://geps.dev/progress/50)  
 - Read parts of "Designing Data Intensive Applications" ![](https://geps.dev/progress/10)
-- Practice writing software ![](https://geps.dev/progress/25)  
+- Write more ![](https://geps.dev/progress/50)  
 
 ***
 
@@ -51,7 +51,7 @@ To get better at writing bigger pieces of maintainable software.
 
 One important area of improvement for me is to become better at networking. It's fundamental to software development and an area I've noticed many times that I'm lacking a solid base in. I've improved a lot while working, but this is an area where I need to feel comfortable.
 
-- Practice using web APIs. Google APIs ![](https://geps.dev/progress/50)  
+- Practice using web APIs. Google APIs ![](https://geps.dev/progress/100)  
 - University course "Data communication in networks" ![](https://geps.dev/progress/10)
 - Read initial chapters of "Computer Networking A Top-Down Approach" ![](https://geps.dev/progress/10)
 
