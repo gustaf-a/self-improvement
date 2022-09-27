@@ -20,7 +20,8 @@ Improving my knowledge of standards for documenting and communicating software, 
 
 - Review UML ![](https://geps.dev/progress/100)  
 - Draw algorithms to practice through university course in robotics ![](https://geps.dev/progress/100) 
-- Study and use UML for coding projects ![](https://geps.dev/progress/60) 
+- Study and use flowcharts and UML for coding projects ![](https://geps.dev/progress/60) 
+- Read "The Pragmatic Programmer" ![](https://geps.dev/progress/30) 
   
 ***  
   
