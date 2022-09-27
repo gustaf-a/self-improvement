@@ -4,13 +4,12 @@
 This document shows and outline for my work and plans for addressing areas of improvement.  
 
 
-## Improve general coding knowledge  ![](https://geps.dev/progress/75)  
+## Improve breadth of general coding knowledge outside of C#  ![](https://geps.dev/progress/75)  
 
 Coming from VBA and then being self-taught in C# made it clear that sometimes I'm not aware of alternative solutions and possibilies.
 
 - University course on Python ![](https://geps.dev/progress/100)
 - University course on Android development ![](https://geps.dev/progress/50) 
-- Listen to coding podcasts 
 
 
 ***
