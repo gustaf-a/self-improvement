@@ -3,17 +3,6 @@
 
 This document shows and outline for my work and plans for addressing areas of improvement.  
 
-
-## Improve breadth of general coding knowledge outside of C#  ![](https://geps.dev/progress/75)  
-
-Coming from VBA and then being self-taught in C# made it clear that sometimes I'm not aware of alternative solutions and possibilies.
-
-- University course on Python ![](https://geps.dev/progress/100)
-- University course on Android development ![](https://geps.dev/progress/50) 
-
-
-***
-
 ## Communication and understanding of Software ![](https://geps.dev/progress/60)  
 
 Improving my knowledge of standards for documenting and communicating software, such as UML, would improve my communication with others and my own work to solve problems.  
@@ -41,7 +30,7 @@ I really enjoy writing test code and finding bugs in code. But there are many di
 To get better at writing bigger pieces of maintainable software.  
 
 - Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/70)
-- Study design patterns: [YouTube playlist](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&ab_channel=ChristopherOkhravi) ![](https://geps.dev/progress/50)  
+- Study design patterns: Read "Head First Design Patterns" ![](https://geps.dev/progress/50)  
 - Read parts of "Designing Data Intensive Applications" ![](https://geps.dev/progress/10)
 - Write more ![](https://geps.dev/progress/50)  
 
@@ -54,6 +43,15 @@ One important area of improvement for me is to become better at networking. It's
 - Practice using web APIs. Google APIs ![](https://geps.dev/progress/100)  
 - University course "Data communication in networks" ![](https://geps.dev/progress/10)
 - Read initial chapters of "Computer Networking A Top-Down Approach" ![](https://geps.dev/progress/10)
+
+***
+
+## Widen coding knowledge outside of C#  ![](https://geps.dev/progress/75)  
+
+Coming from VBA and then being self-taught in C# made it clear that sometimes I'm not aware of alternative solutions and possibilies.
+
+- University course on Python ![](https://geps.dev/progress/100)
+- University course on Android development ![](https://geps.dev/progress/75) 
 
 ***
 
