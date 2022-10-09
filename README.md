@@ -25,7 +25,7 @@ Widening my knowledge outside of C# is fun and makes me appreciate what how much
 
 ***  
   
-## Testing ![](https://geps.dev/progress/30)  
+## Testing ![](https://geps.dev/progress/50)  
 
 I really enjoy writing test code and finding bugs in code. But there are many different ways of writing and thinking about test code that I've encountered among collegues. I want to be competent to find bugs and feel that I'm producing quality code.  
 
@@ -36,13 +36,15 @@ I really enjoy writing test code and finding bugs in code. But there are many di
 
 ***
 
-## Software Architecture ![](https://geps.dev/progress/30)
+## Software Architecture ![](https://geps.dev/progress/40)
 
 To get better at writing bigger pieces of maintainable software.  
 
 - Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/70)
 - Study design patterns: Read "Head First Design Patterns" ![](https://geps.dev/progress/50)  
 - Read parts of "Designing Data Intensive Applications" ![](https://geps.dev/progress/10)
+- Tutorial on Model-View-ViewModel ![](https://geps.dev/progress/100) 
+- Tutorial on Microservices ![](https://geps.dev/progress/5) 
 - Write more ![](https://geps.dev/progress/50)  
 
 ***
