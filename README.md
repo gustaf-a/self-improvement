@@ -1,16 +1,15 @@
 
 # Self Improvement
 
-This document shows and outline for my work and plans for addressing areas of improvement.  
+Plans and progress tracking for improving.  
 
-## Communication and understanding of Software ![](https://geps.dev/progress/60)  
+## Communication ![](https://geps.dev/progress/100)  
 
-Improving my knowledge of standards for documenting and communicating software, such as UML, would improve my communication with others and my own work to solve problems.  
+Improving my knowledge of standards for documenting and communicating software, such as UML, would improve my communication with others and improve my own coding.  
 
 - Review UML ![](https://geps.dev/progress/100)  
 - Draw algorithms to practice through university course in robotics ![](https://geps.dev/progress/100) 
-- Study and use flowcharts and UML for coding projects ![](https://geps.dev/progress/60) 
-- Read "The Pragmatic Programmer" ![](https://geps.dev/progress/30) 
+- Start using flowcharts more for coding projects ![](https://geps.dev/progress/100) 
   
 ***  
   
@@ -36,6 +35,15 @@ To get better at writing bigger pieces of maintainable software.
 
 ***
 
+## Best practices, productivity and wellbeing ![](https://geps.dev/progress/30)
+
+Something I'm constantly learning, re-learning and sometimhes struggling with. It's lucky I really enjoy it! 
+
+- Read "The Pragmatic Programmer" ![](https://geps.dev/progress/30)
+- Develop exercise and training routines ![](https://geps.dev/progress/50)
+
+***
+
 ## Networking  ![](https://geps.dev/progress/10)
 
 One important area of improvement for me is to become better at networking. It's fundamental to software development and an area I've noticed many times that I'm lacking a solid base in. I've improved a lot while working, but this is an area where I need to feel comfortable.
@@ -46,12 +54,14 @@ One important area of improvement for me is to become better at networking. It's
 
 ***
 
-## Widen coding knowledge outside of C#  ![](https://geps.dev/progress/75)  
+## Improve coding knowledge outside of C#  ![](https://geps.dev/progress/75)  
 
-Coming from VBA and then being self-taught in C# made it clear that sometimes I'm not aware of alternative solutions and possibilies.
+Widening my knowledge outside of C# is fun and makes me appreciate what how much I've learned.
 
 - University course on Python ![](https://geps.dev/progress/100)
-- University course on Android development ![](https://geps.dev/progress/75) 
+- University course on Android development ![](https://geps.dev/progress/75)
+- Beginner course on .NET MAUI ![](https://geps.dev/progress/75)
+- Own coding project with .NET MAUI ![](https://geps.dev/progress/5)
 
 ***
 
