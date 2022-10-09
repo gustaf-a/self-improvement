@@ -11,6 +11,17 @@ Improving my knowledge of standards for documenting and communicating software, 
 - Draw algorithms to practice through university course in robotics ![](https://geps.dev/progress/100) 
 - Start using flowcharts more for coding projects ![](https://geps.dev/progress/100) 
   
+***
+
+## Improve coding knowledge outside of C#  ![](https://geps.dev/progress/75)  
+
+Widening my knowledge outside of C# is fun and makes me appreciate what how much I've learned.
+
+- University course on Python ![](https://geps.dev/progress/100)
+- University course on Android development ![](https://geps.dev/progress/75)
+- Beginner course on .NET MAUI ![](https://geps.dev/progress/75)
+- Own coding project with .NET MAUI ![](https://geps.dev/progress/5)
+
 ***  
   
 ## Testing ![](https://geps.dev/progress/30)  
@@ -51,17 +62,6 @@ One important area of improvement for me is to become better at networking. It's
 - Practice using web APIs. Google APIs ![](https://geps.dev/progress/100)  
 - University course "Data communication in networks" ![](https://geps.dev/progress/10)
 - Read initial chapters of "Computer Networking A Top-Down Approach" ![](https://geps.dev/progress/10)
-
-***
-
-## Improve coding knowledge outside of C#  ![](https://geps.dev/progress/75)  
-
-Widening my knowledge outside of C# is fun and makes me appreciate what how much I've learned.
-
-- University course on Python ![](https://geps.dev/progress/100)
-- University course on Android development ![](https://geps.dev/progress/75)
-- Beginner course on .NET MAUI ![](https://geps.dev/progress/75)
-- Own coding project with .NET MAUI ![](https://geps.dev/progress/5)
 
 ***
 
