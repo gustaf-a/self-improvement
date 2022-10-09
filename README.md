@@ -10,6 +10,7 @@ Improving my knowledge of standards for documenting and communicating software, 
 - Review UML ![](https://geps.dev/progress/100)  
 - Draw algorithms to practice through university course in robotics ![](https://geps.dev/progress/100) 
 - Start using flowcharts more for coding projects ![](https://geps.dev/progress/100) 
+- Read up on MarkDown and go through examples on how people use README files ![](https://geps.dev/progress/100) 
   
 ***
 
