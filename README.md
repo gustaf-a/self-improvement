@@ -69,12 +69,12 @@ One important area of improvement for me is to become better at networking. It's
 
 ***
 
-## Docker ![](https://geps.dev/progress/40)  
+## Docker ![](https://geps.dev/progress/80)  
 
 Docker is a technology I want to be more comfortable with and debugging, modifying and working with containerized code is my focus.
 
 - Learn debugging docker from tutorial ![](https://geps.dev/progress/100)  
-- Create a docker app ![](https://geps.dev/progress/0)
+- Use docker and Kubernetes in own project ![](https://geps.dev/progress/60)
 
 ***
 
