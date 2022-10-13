@@ -40,12 +40,13 @@ I really enjoy writing test code and finding bugs in code. But there are many di
 
 To get better at writing bigger pieces of maintainable software.  
 
-- Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/70)
+- Tutorial on Microservices ![](https://geps.dev/progress/100)
+- Tutorial on Model-View-ViewModel ![](https://geps.dev/progress/100) 
+- Read "Microservices in .NET" ![](https://geps.dev/progress/75) 
 - Study design patterns: Read "Head First Design Patterns" ![](https://geps.dev/progress/50)  
 - Read parts of "Designing Data Intensive Applications" ![](https://geps.dev/progress/10)
-- Tutorial on Model-View-ViewModel ![](https://geps.dev/progress/100) 
-- Tutorial on Microservices ![](https://geps.dev/progress/5) 
-- Write more ![](https://geps.dev/progress/50)  
+- Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/75)
+- Design and create own projects ![](https://geps.dev/progress/50)  
 
 ***
 
