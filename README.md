@@ -30,7 +30,7 @@ Widening my knowledge outside of C# is fun and makes me appreciate what how much
 I really enjoy writing test code and finding bugs in code. But there are many different ways of writing and thinking about test code that I've encountered among collegues. I want to be competent to find bugs and feel that I'm producing quality code.  
 
 - Listen to podcasts on testing: Coding Blocks ![](https://geps.dev/progress/100) 
-- Write tests for private projects ![](https://geps.dev/progress/60) 
+- Write tests for private projects ![](https://geps.dev/progress/80) 
 - Read: "C and .NET Core Test-Driven Development" ![](https://geps.dev/progress/20)  
 - Read: "The Art of Software Testing" ![](https://geps.dev/progress/20)  
 
@@ -42,11 +42,10 @@ To get better at writing bigger pieces of maintainable software.
 
 - Tutorial on Microservices ![](https://geps.dev/progress/100)
 - Tutorial on Model-View-ViewModel ![](https://geps.dev/progress/100) 
-- Read "Microservices in .NET" ![](https://geps.dev/progress/75) 
+- Read "Microservices in .NET" ![](https://geps.dev/progress/90) 
 - Study design patterns: Read "Head First Design Patterns" ![](https://geps.dev/progress/50)  
-- Read parts of "Designing Data Intensive Applications" ![](https://geps.dev/progress/10)
 - Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/75)
-- Design and create own projects ![](https://geps.dev/progress/50)  
+- Design and create own projects ![](https://geps.dev/progress/75)  
 
 ***
 
@@ -54,18 +53,8 @@ To get better at writing bigger pieces of maintainable software.
 
 Something I'm constantly learning, re-learning and sometimhes struggling with. It's lucky I really enjoy it! 
 
-- Read "The Pragmatic Programmer" ![](https://geps.dev/progress/30)
+- Read "The Pragmatic Programmer" ![](https://geps.dev/progress/35)
 - Develop exercise and training routines ![](https://geps.dev/progress/50)
-
-***
-
-## Networking  ![](https://geps.dev/progress/10)
-
-One important area of improvement for me is to become better at networking. It's fundamental to software development and an area I've noticed many times that I'm lacking a solid base in. I've improved a lot while working, but this is an area where I need to feel comfortable.
-
-- Practice using web APIs. Google APIs ![](https://geps.dev/progress/100)  
-- University course "Data communication in networks" ![](https://geps.dev/progress/10)
-- Read initial chapters of "Computer Networking A Top-Down Approach" ![](https://geps.dev/progress/10)
 
 ***
 
