@@ -36,7 +36,7 @@ I really enjoy writing test code and finding bugs in code. But there are many di
 
 ***
 
-## Software Architecture ![](https://geps.dev/progress/40)
+## Software Architecture ![](https://geps.dev/progress/60)
 
 To get better at writing bigger pieces of maintainable software.  
 
