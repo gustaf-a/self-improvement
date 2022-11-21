@@ -1,7 +1,7 @@
 
-# Self Improvement
+# Self Improvement 2022
 
-Plans and progress tracking for improving.  
+Plans and progress tracking for improving myself during fall 2022.  
 
 ## Review documentation and software communication basics ![](https://geps.dev/progress/100)  
 
@@ -14,26 +14,33 @@ Improving my knowledge of standards for documenting and communicating software, 
   
 ***
 
-## Broaden coding knowledge outside of C#  ![](https://geps.dev/progress/75)  
+## Broaden coding outside C#  ![](https://geps.dev/progress/80)  
 
 Widening my knowledge outside of C# is fun and makes me appreciate what how much I've learned. I also want to be able to use different tools when needed.
 
 - University course on Python ![](https://geps.dev/progress/100)
 - University course on Android development ![](https://geps.dev/progress/75)
 - Beginner course on .NET MAUI ![](https://geps.dev/progress/100)
-- Own coding project with .NET MAUI ![](https://geps.dev/progress/25)
+- Own coding project with .NET MAUI - Explored enough
+- Learn about reactive extensions Rx.Net ![](https://geps.dev/progress/10)
+
+Ideas: 
+- Scripting:
+- Project with NoSQL
 
 ***  
   
-## Testing ![](https://geps.dev/progress/50)  
+## Testing ![](https://geps.dev/progress/60)  
 
-I really enjoy writing test code and finding bugs in code. But there are many different ways of writing and thinking about test code that I've encountered among collegues. I want to be competent to find bugs and feel that I'm producing quality code.  
+I really enjoy writing tests, finding bugs in code and building quality. But there are many different ways of writing and thinking about tests that I've encountered among collegues and I want to expand my knowledge here.
 
 - Listen to podcasts on testing: Coding Blocks ![](https://geps.dev/progress/100) 
 - Write more than just unit tests for private projects ![](https://geps.dev/progress/100) 
-- Read: "C and .NET Core Test-Driven Development" ![](https://geps.dev/progress/20)  
-- Read: "The Art of Software Testing" ![](https://geps.dev/progress/20)
-- Setup automated testing pipeline with docker in own project ![](https://geps.dev/progress/0)
+- Read: "C and .NET Core Test-Driven Development" ![](https://geps.dev/progress/30)  
+- Read: "The Art of Software Testing" ![](https://geps.dev/progress/30)
+
+Ideas: 
+- Setup automated testing pipeline with docker in own project
 
 ***
 
@@ -41,29 +48,29 @@ I really enjoy writing test code and finding bugs in code. But there are many di
 
 To get better at writing bigger pieces of maintainable software.  
 
-- Tutorial on Microservices ![](https://geps.dev/progress/100)
-- Tutorial on Model-View-ViewModel ![](https://geps.dev/progress/100) 
+- Study microservices ![](https://geps.dev/progress/100)
 - Read "Microservices in .NET" ![](https://geps.dev/progress/90) 
-- Study design patterns: Read "Head First Design Patterns" ![](https://geps.dev/progress/50)  
-- Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/75)
-- Design and create own projects ![](https://geps.dev/progress/85)  
+- Create own microservice project ![](https://geps.dev/progress/100)
+- Tutorial on Model-View-ViewModel ![](https://geps.dev/progress/100) 
+- Read "Head First Design Patterns" ![](https://geps.dev/progress/50)  
+- Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/50)
 
 ***
 
-## Best practices, productivity and wellbeing ![](https://geps.dev/progress/30)
+## Best practices, productivity and wellbeing ![](https://geps.dev/progress/50)
 
-Something I'm constantly learning and re-learning. It's a good thing I really enjoy it! 
+Something I'm constantly learning and re-learning. It's a good thing I enjoy it! 
 
 - Read "The Pragmatic Programmer" ![](https://geps.dev/progress/35)
 - Develop exercise and training routines ![](https://geps.dev/progress/100)
 
 ***
 
-## Docker ![](https://geps.dev/progress/60)  
+## Docker ![](https://geps.dev/progress/75)  
 
-Docker is a technology I want to be more comfortable with and debugging, modifying and working with containerized code is my focus.
+I worked with Docker in my previous job, but Docker is a technology I want to be more comfortable with. Debugging, modifying, and working with containerized code is my focus.
 
-- Learn debugging docker from tutorial ![](https://geps.dev/progress/100)  
+- Debugging docker from tutorial ![](https://geps.dev/progress/100)  
 - Use docker in own project ![](https://geps.dev/progress/100)
 - Use Kubernetes in own project ![](https://geps.dev/progress/0)
 
