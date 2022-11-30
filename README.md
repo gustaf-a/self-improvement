@@ -1,5 +1,5 @@
 
-# Self Improvement 2022
+# Self Improvement Fall 2022
 
 Plans and progress tracking for improving myself during fall 2022.  
 
@@ -14,7 +14,7 @@ Improving my knowledge of standards for documenting and communicating software, 
   
 ***
 
-## Broaden coding outside C#  ![](https://geps.dev/progress/80)  
+## Broaden coding outside C#  ![](https://geps.dev/progress/90)  
 
 Widening my knowledge outside of C# is fun and makes me appreciate what how much I've learned. I also want to be able to use different tools when needed.
 
@@ -22,7 +22,8 @@ Widening my knowledge outside of C# is fun and makes me appreciate what how much
 - University course on Android development ![](https://geps.dev/progress/75)
 - Beginner course on .NET MAUI ![](https://geps.dev/progress/100)
 - Own coding project with .NET MAUI - Explored enough
-- Learn about reactive extensions Rx.Net ![](https://geps.dev/progress/10)
+- Read book Rx.NET in Action about reactive programming ![](https://geps.dev/progress/100)
+- Practice Rx.Net in own project ![](https://geps.dev/progress/0)
 
 Ideas: 
 - Scripting:
@@ -49,7 +50,7 @@ Ideas:
 To get better at writing bigger pieces of maintainable software.  
 
 - Study microservices ![](https://geps.dev/progress/100)
-- Read "Microservices in .NET" ![](https://geps.dev/progress/90) 
+- Read "Microservices in .NET" ![](https://geps.dev/progress/100) 
 - Create own microservice project ![](https://geps.dev/progress/100)
 - Tutorial on Model-View-ViewModel ![](https://geps.dev/progress/100) 
 - Read "Head First Design Patterns" ![](https://geps.dev/progress/50)  
