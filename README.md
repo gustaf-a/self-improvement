@@ -23,7 +23,7 @@ Widening my knowledge outside of C# is fun and makes me appreciate what how much
 - Beginner course on .NET MAUI ![](https://geps.dev/progress/100)
 - Own coding project with .NET MAUI - Explored enough
 - Read book Rx.NET in Action about reactive programming ![](https://geps.dev/progress/100)
-- Practice Rx.Net in own project ![](https://geps.dev/progress/0)
+- Practice Rx.Net in own project ![](https://geps.dev/progress/50)
 
 Ideas: 
 - Scripting:
