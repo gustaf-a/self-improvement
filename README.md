@@ -3,7 +3,7 @@
 
 Plans and progress tracking for improving myself during fall 2022.  
 
-## Review documentation and software communication basics ![](https://geps.dev/progress/100)  
+## Review documentation and software communication basics 
 
 Improving my knowledge of standards for documenting and communicating software, such as UML, to improve my own work and how I communicate with others.  
 
@@ -14,7 +14,7 @@ Improving my knowledge of standards for documenting and communicating software, 
   
 ***
 
-## Broaden coding outside C#  ![](https://geps.dev/progress/90)  
+## Broaden coding outside C#
 
 Widening my knowledge outside of C# is fun and makes me appreciate what how much I've learned. I also want to be able to use different tools when needed.
 
@@ -32,7 +32,7 @@ Ideas:
 
 ***
 
-## Cloud ![](https://geps.dev/progress/10)  
+## Cloud
 
 It's fascinating how easy it is to build powerful and scaleable applications.
 
@@ -41,7 +41,7 @@ It's fascinating how easy it is to build powerful and scaleable applications.
 
 ***  
   
-## Testing ![](https://geps.dev/progress/60)  
+## Testing
 
 I really enjoy writing tests, finding bugs in code and building quality. But there are many different ways of writing and thinking about tests that I've encountered among collegues and I want to expand my knowledge here.
 
@@ -55,7 +55,7 @@ Ideas:
 
 ***
 
-## Software Architecture ![](https://geps.dev/progress/75)
+## Software Architecture
 
 To get better at writing bigger pieces of maintainable software.  
 
@@ -68,7 +68,7 @@ To get better at writing bigger pieces of maintainable software.
 
 ***
 
-## Best practices, productivity and wellbeing ![](https://geps.dev/progress/50)
+## Best practices, productivity and wellbeing
 
 Something I'm constantly learning and re-learning. It's a good thing I enjoy it! 
 
@@ -77,7 +77,7 @@ Something I'm constantly learning and re-learning. It's a good thing I enjoy it!
 
 ***
 
-## Docker ![](https://geps.dev/progress/75)  
+## Docker 
 
 I worked with Docker in my previous job, but Docker is a technology I want to be more comfortable with. Debugging, modifying, and working with containerized code is my focus.
 
