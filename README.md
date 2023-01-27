@@ -14,21 +14,26 @@ Improving my knowledge of standards for documenting and communicating software, 
   
 ***
 
-## Broaden coding outside C#
+## Coding outside C#
 
 Widening my knowledge outside of C# is fun and makes me appreciate what how much I've learned. I also want to be able to use different tools when needed.
 
 - University course on Python ![](https://geps.dev/progress/100)
 - University course on Android development ![](https://geps.dev/progress/100)
+
+Ideas: 
+- Scripting: Powershell, Bash, Linux
+- Project with NoSQL
+
+***
+
+## Sharper C#
+
 - Beginner course on .NET MAUI ![](https://geps.dev/progress/100)
 - Own coding project with .NET MAUI - Explored enough
 - Read book Rx.NET in Action about reactive programming ![](https://geps.dev/progress/100)
 - Practice Rx.Net in own project ![](https://geps.dev/progress/100)
 - Coding with AI assistance ![](https://geps.dev/progress/100)
-
-Ideas: 
-- Scripting: Powershell, Bash, Linux
-- Project with NoSQL
 
 ***
 
