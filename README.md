@@ -41,7 +41,7 @@ Ideas:
 
 It's fascinating how easy it is to build powerful and scaleable applications.
 
-- Take AZ-204 Microsoft Azure certification ![](https://geps.dev/progress/20)
+- Take AZ-204 Microsoft Azure certification ![](https://geps.dev/progress/40)
 - Build own practice projects ![](https://geps.dev/progress/0)
 
 ***  
