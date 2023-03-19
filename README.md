@@ -1,5 +1,5 @@
 
-# Self Improvement Fall 2022
+# Self Improvement 2022-2023
 
 Plans and progress tracking for improving myself during fall 2022.  
 
