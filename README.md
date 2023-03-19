@@ -33,13 +33,12 @@ Ideas:
 - Own coding project with .NET MAUI - Explored enough
 - Read book Rx.NET in Action about reactive programming ![](https://geps.dev/progress/100)
 - Practice Rx.Net in own project ![](https://geps.dev/progress/100)
-- Coding with AI assistance ![](https://geps.dev/progress/100)
+- Coding with AI assistance Github CoPilot and ChatGPT 3 exploration ![](https://geps.dev/progress/100)
+- WPF C# course ![](https://geps.dev/progress/100)
 
 ***
 
 ## Cloud
-
-It's fascinating how easy it is to build powerful and scaleable applications.
 
 - Take AZ-204 Microsoft Azure certification ![](https://geps.dev/progress/40)
 - Build own practice projects ![](https://geps.dev/progress/0)
@@ -68,8 +67,8 @@ To get better at writing bigger pieces of maintainable software.
 - Read "Microservices in .NET" ![](https://geps.dev/progress/100) 
 - Create own microservice project ![](https://geps.dev/progress/100)
 - Tutorial on Model-View-ViewModel ![](https://geps.dev/progress/100) 
-- Read "Head First Design Patterns" ![](https://geps.dev/progress/50)  
-- Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/50)
+- Read "Head First Design Patterns" ![](https://geps.dev/progress/70)  
+- Listen to podcasts on architecture: Coding Blocks ![](https://geps.dev/progress/60)
 
 ***
 
@@ -77,7 +76,7 @@ To get better at writing bigger pieces of maintainable software.
 
 Something I'm constantly learning and re-learning. It's a good thing I enjoy it! 
 
-- Read "The Pragmatic Programmer" ![](https://geps.dev/progress/35)
+- Read "The Pragmatic Programmer" ![](https://geps.dev/progress/50)
 - Develop exercise and training routines ![](https://geps.dev/progress/100)
 
 ***
